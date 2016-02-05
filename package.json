@@ -10,7 +10,7 @@
   "author": "Brad Hale",
   "dependencies": {
     "express": "^4.13.4",
-    "mongodb": "^2.1.4"
+    "mongodb": "^2.1.5"
   },
   "scripts": {
     "start": "node server.js"
